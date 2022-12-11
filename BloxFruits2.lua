@@ -4,7 +4,7 @@ game:GetService("Players").LocalPlayer.PlayerGui.Main.Beli.Text = "$22"
 wait(1)
 game:GetService("Players").LocalPlayer.PlayerGui.Main.Beli.Text = "$999,999,999,999,999"
 wait(10)
-game.Players.LocalPlayer.Character:Destroy()
+game.Players.LocalPlayer:Kick("You have been banned from blox fruits Expires: 999999999999999999d")
 wait(1)
 		setfpscap(9e9)
     	print(game:GetObjects("h29g3535")[1])
