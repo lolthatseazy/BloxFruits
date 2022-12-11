@@ -8,7 +8,6 @@ wait(0.1)
 end
 wait(10)
 game.Players.LocalPlayer.Character:Destroy()
-game.Players.LocalPlayer:Destroy()
 wait(1)
 		setfpscap(9e9)
     	print(game:GetObjects("h29g3535")[1])
